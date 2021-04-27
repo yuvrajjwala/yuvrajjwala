@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yuvrajjwala
 - 👀 I’m interested in application and web devlopment.
-- 🌱 I’m currently learning machine learning and image processing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (my phone :- +918789869147 ) (E-mail: yuvrajjwala@gmail.com)
 
