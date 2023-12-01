@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (my phone :- +918789869147 ) (E-mail: meetyuvrajjwala@gmail.com)
 
-👨‍💻 Frontend | React.js Enthusiast | TypeScript Sorcerer🪄
+👨‍💻 Frontend | React.js Enthusiast| Next.js | React Native | TypeScript Sorcerer🪄
 
 🚀 Crafting dynamic and recursive UIs with code and algorithms.
 💡 Turning complex problems into elegant, user-friendly solutions.
