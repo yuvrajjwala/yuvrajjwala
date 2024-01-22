@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvrajjwala
 - 👀 I’m interested in application and web development.
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on Next js | React js | Node js | React Native Projects.
 - 📫 How to reach me (my phone :- +918789869147 ) (E-mail: meetyuvrajjwala@gmail.com)
 
 👨‍💻 Frontend | React.js Enthusiast| Next.js | React Native | TypeScript Sorcerer🪄
