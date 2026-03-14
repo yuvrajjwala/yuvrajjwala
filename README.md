@@ -1,19 +1,64 @@
-- 👋 Hi, I’m @yuvrajjwala
-- 👀 I’m interested in application and web development.
-- 💞️ I’m looking to collaborate on Next js | React js | Node js | React Native Projects.
-- 📫 How to reach me (my phone :- +918789869147 ) (E-mail: meetyuvrajjwala@gmail.com)
+# Hi, I'm Yuvraj Jwala
 
-👨‍💻 Frontend | React.js Enthusiast| Next.js | React Native | TypeScript Sorcerer🪄
+Engineer, builder, and project leader working at the intersection of technology, business, and product execution.
 
-🚀 Crafting dynamic and recursive UIs with code and algorithms.
-💡 Turning complex problems into elegant, user-friendly solutions.
-🌟 Making the web a more beautiful and functional place, one line of code at a time.
-🔮 Passionate about React.js, TypeScript, and all things frontend.
-📚 Lifelong learner on a journey to master the art of UI design and development.
-🌐 Open-source advocate | Coffee addict | Creative thinker.
+I am passionate about building scalable applications and solving complex problems through clean engineering and practical business thinking. My experience spans working with companies across multiple countries while contributing to the development of AI systems, SaaS platforms, mobile applications, and large-scale web products.
 
-Let's build amazing user experiences together! ✨
-<!---
-yuvrajjwala/yuvrajjwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Professional Overview
+
+- IIT Kharagpur alumni
+- Experience working with 15+ companies across 5+ countries
+- Managing 15+ projects simultaneously with a strong record of successful delivery
+- Diverse project and success manager combining development, product strategy, and business execution
+- Focused on building scalable AI, SaaS, infrastructure, and mobile platforms
+
+## Areas of Work
+
+- Web Application Development
+- Mobile Application Development
+- SaaS Platforms
+- AI and Automation Systems
+- Scalable Backend Infrastructure
+- Product Development and System Architecture
+
+## Technology Stack
+
+Frontend
+- React.js
+- Next.js
+- TypeScript
+- Modern UI Architecture
+
+Backend
+- Node.js
+- API Architecture
+- Scalable System Design
+
+Mobile
+- React Native
+
+## Approach to Work
+
+I believe in learning from every part of the market and product lifecycle. Whether it is sales, development, product design, or management, I actively work across disciplines to understand how successful technology products are built and scaled.
+
+My goal is not only to build software, but to build systems and businesses that create long-term value.
+
+## Collaboration
+
+I am open to collaborating on projects involving:
+
+- Next.js
+- React.js
+- Node.js
+- React Native
+- AI-driven platforms
+- SaaS systems
+
+## Contact
+
+Phone: +91 8789869147  
+Email: meetyuvrajjwala@gmail.com
+
+---
+
+This repository is a special repository because its README appears on my GitHub profile.
